@@ -59,8 +59,8 @@
     {
         "key": "cw",
         "name": "Conker Wiki",
-        "url": "https://conker.rarewiki.com/w",
-        "articleUrl": "https://conker.rarewiki.com/wiki",
+        "url": "https://conkerwiki.com/w",
+        "articleUrl": "https://conkerwiki.com/wiki",
         "aliases": [
             "conker",
             "cts"
@@ -171,6 +171,17 @@
         "setOnly": []
     },
     {
+        "key": "hk",
+        "name": "Hello Kitty + Sanrio Wiki",
+        "url": "https://sanriowiki.com/w",
+        "articleUrl": "https://sanriowiki.com/wiki",
+        "aliases": [
+            "kitty",
+            "sanrio"
+        ],
+        "setOnly": []
+    },    
+    {
         "key": "ic",
         "name": "Icaruspedia",
         "url": "https://www.kidicaruswiki.org/w",
@@ -258,7 +269,8 @@
         "url": "https://marioversewiki.com/w",
         "articleUrl": "https://marioversewiki.com/wiki",
         "aliases": [
-            "mverse"
+            "mverse",
+            "marioverse"
         ],
         "setOnly": []
     },
@@ -294,7 +306,8 @@
         "aliases": [
             "n",
             "ntdo",
-            "nwiki"
+            "nwiki",
+            "nintendo"
         ],
         "setOnly": []
     },
